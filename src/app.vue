@@ -1,6 +1,6 @@
 <template>
     <div class="mainContainer">
-        <mt-header fixed title="黑马程序员-Vue项目"></mt-header>
+        <mt-header fixed title="购物网-Vue项目"></mt-header>
         <transition>
             <router-view></router-view>
         </transition>
